@@ -2,9 +2,9 @@
 
 ### Full-Stack Software Developer | Backend Engineer | Coding Educator
 
-I build **scalable, production-ready web applications** with a strong focus on robust backend architecture, seamless API integrations, secure transaction workflows, responsive modern frontends, and enterprise-grade solutions.
+I build **scalable, production-ready web applications** with a strong focus on robust backend architecture, seamless API integrations, secure transaction workflows, responsive modern frontends, and[...]
 
-I enjoy working across the full development lifecycle — from designing system architecture and backend logic to building user-facing interfaces, integrating external services, and delivering maintainable solutions that solve real business problems.
+I enjoy working across the full development lifecycle — from designing system architecture and backend logic to building user-facing interfaces, integrating external services, and delivering main[...]
 
 ---
 
@@ -62,11 +62,12 @@ I enjoy working across the full development lifecycle — from designing system 
 
 | Project | Overview | Tech Stack | Repository |
 |---------|----------|-----------|------------|
-| **🤖 Enterprise-RBAC-AI-Execution-Engine** | An enterprise AI knowledge base featuring role-based access control, secure document ingestion, and PostgreSQL vector search for intelligent document retrieval. | JavaScript, PostgreSQL, Vector Search, AI | [View Repo](https://github.com/Tobenkey98/Enterprise-RBAC-AI-Execution-Engine) |
-| **💍 DestinyPair** | A purpose-driven relationship and community platform designed to connect Christian singles seeking meaningful relationships. Features user authentication, profiles, matching algorithms, and community features. | JavaScript, React, Database Design | [View Repo](https://github.com/Tobenkey98/Destiny-Pair) |
-| **✈️ SkyWings — Flight Booking Platform** | A flight search and booking system integrating Amadeus flight inventory and payment processing to provide an end-to-end booking workflow from flight search to payment completion. | Python, Django, Amadeus API, Payment Integration | [View Repo](https://github.com/Tobenkey98/Flight_Booking-with-amadeus-API) |
-| **🍽️ Chopora — Restaurant Management & Ordering** | A full-stack restaurant platform supporting customer authentication, menu browsing, cart management, order processing, payment integration, and admin dashboards. | Python, Django, JavaScript, Paystack API | [View Repo](https://github.com/Tobenkey98/Online-Restaurant-with-Django) |
-| **⛓️ Web3 Smart Contract - Crypto Lending** | A decentralized finance (DeFi) project where lenders can lock funds and borrowers can lock reputation. Features smart contracts, TypeScript integration, and blockchain security. | TypeScript, Solidity, Python, Django, Web3 | [View Repo](https://github.com/Tobenkey98/Web3-Smart-Contract-with-TypeScript-solidity-and-Python-django) |
+| **🔄 Low-Latency-Live-Agent-WebSocket-Streaming-Engine** | A real-time AI agent platform built with Django Channels, featuring live WebSocket streaming, tool-calling loops, and a React human-in-the-loop UI for interactive AI workflows. | Django, Django Channels, React, WebSocket, Python, JavaScript | [View Repo](https://github.com/Tobenkey98/Low-Latency-Live-Agent-WebSocket-Streaming-Engine) |
+| **🤖 Enterprise-RBAC-AI-Execution-Engine** | An enterprise AI knowledge base featuring role-based access control, secure document ingestion, and PostgreSQL vector search for intelligent docume[...] | JavaScript, PostgreSQL, Vector Search, RBAC | [View Repo](https://github.com/Tobenkey98/Enterprise-RBAC-AI-Execution-Engine) |
+| **💍 DestinyPair** | A purpose-driven relationship and community platform designed to connect Christian singles seeking meaningful relationships. Features user authentication, profiles, matchi[...] | JavaScript, React | [View Repo](https://github.com/Tobenkey98/Destiny-Pair) |
+| **✈️ SkyWings — Flight Booking Platform** | A flight search and booking system integrating Amadeus flight inventory and payment processing to provide an end-to-end booking workflow from fl[...] | HTML, CSS, Amadeus API | [View Repo](https://github.com/Tobenkey98/Flight_Booking-with-amadeus-API) |
+| **🍽️ Chopora — Restaurant Management & Ordering** | A full-stack restaurant platform supporting customer authentication, menu browsing, cart management, order processing, payment integrat[...] | Django, HTML, Python | [View Repo](https://github.com/Tobenkey98/Online-Restaurant-with-Django) |
+| **⛓️ Web3 Smart Contract - Crypto Lending** | A decentralized finance (DeFi) project where lenders can lock funds and borrowers can lock reputation. Features smart contracts, TypeScript inte[...] | TypeScript, Solidity, Python, Django | [View Repo](https://github.com/Tobenkey98/Web3-Smart-Contract-with-TypeScript-solidity-and-Python-django) |
 | **🏢 Pure Intentions Global Tech Services** | Digital solutions and software development portfolio for businesses and organizations. | HTML, CSS, JavaScript, Responsive Design | [View Repo](https://github.com/Tobenkey98/Pure-Intentions-Global-Tech-Services) |
 
 ---
@@ -88,6 +89,7 @@ I focus on software systems that solve **real business and user problems**, incl
 - **AI-integrated applications** with LLM APIs and vector search
 - **Community and marketplace platforms**
 - **Smart contract integrations** and blockchain solutions
+- **Real-time AI agent platforms** with WebSocket streaming
 
 ---
 
@@ -99,7 +101,7 @@ I approach development with an emphasis on:
 Architecture → Reliability → Security → Maintainability → User Experience → Scalability
 ```
 
-Rather than treating a project as simply a collection of pages and features, I focus on how the different parts of a system work together — from database structure and backend business logic to frontend user experience and deployment infrastructure.
+Rather than treating a project as simply a collection of pages and features, I focus on how the different parts of a system work together — from database structure and backend business logic to[...]
 
 **Key Principles:**
 - ✅ Write code that is readable, maintainable, and well-documented
@@ -139,14 +141,15 @@ Continuously advancing expertise in:
 - 📊 **Data-Driven Applications** - Analytics, reporting, business intelligence
 - ⛓️ **Blockchain & Smart Contracts** - Web3 solutions and DeFi applications
 - ☁️ **Cloud Deployment & DevOps** - Production workflows, CI/CD, containerization
+- 📡 **Real-Time Applications** - WebSocket streaming, live agent platforms, and interactive systems
 
 ---
 
 ## 📊 GitHub Stats
 
-- **7 Public Repositories** covering full-stack development, AI, blockchain, and business applications
+- **8 Public Repositories** covering full-stack development, AI, blockchain, and business applications
 - **Languages:** JavaScript, Python, TypeScript, Solidity, HTML, CSS, SQL
-- **Focus Areas:** Enterprise AI, Payment Systems, Booking Platforms, Web3 Solutions
+- **Focus Areas:** Enterprise AI, Real-Time Agent Systems, Payment Systems, Booking Platforms, Web3 Solutions
 
 ---
 
@@ -160,6 +163,7 @@ I'm open to collaborating on:
 - ✅ Blockchain and smart contract solutions
 - ✅ Developer-focused projects and tools
 - ✅ Mentoring and technical education
+- ✅ Real-time AI agent platforms and WebSocket systems
 
 ### 🌐 Connect With Me
 
@@ -172,6 +176,7 @@ I'm open to collaborating on:
 ---
 
 ### 💬 Latest Updates
+- ✨ **NEW:** Low-Latency-Live-Agent-WebSocket-Streaming-Engine - Real-time AI agent platform with Django Channels and React
 - ✨ **NEW:** Enterprise-RBAC-AI-Execution-Engine - Advanced AI knowledge base with vector search and role-based access control
 - 🔄 Continuously building production-grade applications
 - 📚 Teaching web development and backend systems
