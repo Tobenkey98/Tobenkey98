@@ -62,12 +62,13 @@ I enjoy working across the full development lifecycle — from designing system 
 
 | Project | Overview | Tech Stack | Repository |
 |---------|----------|-----------|------------|
-| **🔄 Low-Latency-Live-Agent-WebSocket-Streaming-Engine** | A real-time AI agent platform built with Django Channels, featuring live WebSocket streaming, tool-calling loops, and a React human-i[...]
-| **🤖 Enterprise-RBAC-AI-Execution-Engine** | An enterprise AI knowledge base featuring role-based access control, secure document ingestion, and PostgreSQL vector search for intelligent docume[...]
-| **💍 DestinyPair** | A purpose-driven relationship and community platform designed to connect Christian singles seeking meaningful relationships. Features user authentication, profiles, matchi[...]
-| **✈️ SkyWings — Flight Booking Platform** | A flight search and booking system integrating Amadeus flight inventory and payment processing to provide an end-to-end booking workflow from fl[...]
-| **⛓️ Web3 Smart Contract - Crypto Lending** | A decentralized finance (DeFi) project where lenders can lock funds and borrowers can lock reputation. Features smart contracts, TypeScript inte[...]
-| **🏢 Pure Intentions Global Tech Services** | Digital solutions and software development portfolio for businesses and organizations. | HTML, CSS, JavaScript, Responsive Design | [View Repo](ht[...]
+| **📊 Raw-CSV-Data-Ingestion-Analytics-Pipeline** | An asynchronous data enrichment pipeline using Celery, Redis, and strict Pydantic AI schemas to process and clean CSV uploads at scale. | Python, Celery, Redis, Pydantic, JavaScript | [View Repo](https://github.com/Tobenkey98/Raw-CSV-Data-Ingestion-Analytics-Pipeline) |
+| **🔄 Low-Latency-Live-Agent-WebSocket-Streaming-Engine** | A real-time AI agent platform built with Django Channels, featuring live WebSocket streaming, tool-calling loops, and a React human-i[...] | Django, WebSocket, React | [View Repo](https://github.com/Tobenkey98/Low-Latency-Live-Agent-WebSocket-Streaming-Engine) |
+| **🤖 Enterprise-RBAC-AI-Execution-Engine** | An enterprise AI knowledge base featuring role-based access control, secure document ingestion, and PostgreSQL vector search for intelligent docume[...] | Python, Django, PostgreSQL, AI/LLM | [View Repo](https://github.com/Tobenkey98/Enterprise-RBAC-AI-Execution-Engine) |
+| **💍 DestinyPair** | A purpose-driven relationship and community platform designed to connect Christian singles seeking meaningful relationships. Features user authentication, profiles, matchi[...] | JavaScript, React, Django | [View Repo](https://github.com/Tobenkey98/Destiny-Pair) |
+| **✈️ SkyWings — Flight Booking Platform** | A flight search and booking system integrating Amadeus flight inventory and payment processing to provide an end-to-end booking workflow from fl[...] | JavaScript, React, Django, Amadeus API | [View Repo](https://github.com/Tobenkey98/Flight_Booking-with-amadeus-API) |
+| **⛓️ Web3 Smart Contract - Crypto Lending** | A decentralized finance (DeFi) project where lenders can lock funds and borrowers can lock reputation. Features smart contracts, TypeScript inte[...] | TypeScript, Solidity, Smart Contracts | [View Repo](https://github.com/Tobenkey98/Web3-Smart-Contract-with-TypeScript-solidity-and-Python-django) |
+| **🏢 Pure Intentions Global Tech Services** | Digital solutions and software development portfolio for businesses and organizations. | HTML, CSS, JavaScript, Responsive Design | [View Repo](https://github.com/Tobenkey98/Pure-Intentions-Global-Tech-Services) |
 
 ---
 
@@ -89,6 +90,7 @@ I focus on software systems that solve **real business and user problems**, incl
 - **Community and marketplace platforms**
 - **Smart contract integrations** and blockchain solutions
 - **Real-time AI agent platforms** with WebSocket streaming
+- **Data pipeline & ETL systems** with asynchronous processing
 
 ---
 
@@ -141,14 +143,15 @@ Continuously advancing expertise in:
 - ⛓️ **Blockchain & Smart Contracts** - Web3 solutions and DeFi applications
 - ☁️ **Cloud Deployment & DevOps** - Production workflows, CI/CD, containerization
 - 📡 **Real-Time Applications** - WebSocket streaming, live agent platforms, and interactive systems
+- 🔄 **Data Engineering & ETL Pipelines** - Asynchronous processing, data enrichment, and scalable pipelines
 
 ---
 
 ## 📊 GitHub Stats
 
-- **8 Public Repositories** covering full-stack development, AI, blockchain, and business applications
+- **9 Public Repositories** covering full-stack development, AI, data engineering, blockchain, and business applications
 - **Languages:** JavaScript, Python, TypeScript, Solidity, HTML, CSS, SQL
-- **Focus Areas:** Enterprise AI, Real-Time Agent Systems, Payment Systems, Booking Platforms, Web3 Solutions
+- **Focus Areas:** Enterprise AI, Real-Time Agent Systems, Data Engineering, Payment Systems, Booking Platforms, Web3 Solutions
 
 ---
 
@@ -163,6 +166,7 @@ I'm open to collaborating on:
 - ✅ Developer-focused projects and tools
 - ✅ Mentoring and technical education
 - ✅ Real-time AI agent platforms and WebSocket systems
+- ✅ Data pipelines and ETL systems
 
 ### 🌐 Connect With Me
 
@@ -175,6 +179,7 @@ I'm open to collaborating on:
 ---
 
 ### 💬 Latest Updates
+- ✨ **NEW:** Raw-CSV-Data-Ingestion-Analytics-Pipeline - Asynchronous data enrichment pipeline with Celery, Redis, and Pydantic AI schemas
 - ✨ **NEW:** Low-Latency-Live-Agent-WebSocket-Streaming-Engine - Real-time AI agent platform with Django Channels and React
 - ✨ **NEW:** Enterprise-RBAC-AI-Execution-Engine - Advanced AI knowledge base with vector search and role-based access control
 - 🔄 Continuously building production-grade applications
