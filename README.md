@@ -2,88 +2,72 @@
 
 ### Full-Stack Software Developer | Backend Engineer | Coding Educator
 
-I build **scalable, production-ready web applications** with a strong focus on robust backend architecture, seamless API integrations, secure transaction workflows, and responsive modern frontends. My work combines **Python/Django, React, REST APIs, payment integrations, third-party services, and database-driven systems** to turn real-world business requirements into reliable software products.
+I build **scalable, production-ready web applications** with a strong focus on robust backend architecture, seamless API integrations, secure transaction workflows, responsive modern frontends, and enterprise-grade solutions.
 
-I enjoy working across the full development lifecycle — from designing system architecture and backend logic to building user-facing interfaces, integrating external services, and delivering maintainable applications.
+I enjoy working across the full development lifecycle — from designing system architecture and backend logic to building user-facing interfaces, integrating external services, and delivering maintainable solutions that solve real business problems.
 
 ---
 
 ## 🛠️ Core Competencies & Tech Stack
 
 ### Languages
-
-- **Python**
-- **JavaScript**
-- **Solidity**
-- **HTML5**
-- **CSS3**
-- **SQL**
+- **Python** | **JavaScript** | **TypeScript** | **Solidity** | **HTML5** | **CSS3** | **SQL**
 
 ### Backend & Systems
-
-- **Django**
-- **Django REST Framework**
-- **RESTful API Development**
-- **Authentication & Authorization**
+- **Django** & **Django REST Framework**
+- **RESTful API Development** & **GraphQL**
+- **Authentication & Authorization** (JWT, OAuth2)
 - **Role-Based Access Control (RBAC)**
-- **Database Design**
+- **Database Design** & **Optimization**
 - **Business Logic & Workflow Automation**
 - **Payment & Transaction Workflows**
+- **Enterprise Architecture Patterns**
 
 ### Frontend
+- **React.js** & **Next.js**
+- **React JSX** & **Component-Based Architecture**
+- **Bootstrap 5** & **Responsive Web Development**
+- **Modern JavaScript** & **State Management**
+- **UI/UX Implementation**
 
-- **React.js**
-- **Next.js**
-- **React JSX**
-- **Bootstrap 5**
-- **Responsive Web Development**
-- **Component-Based Architecture**
-- **Modern JavaScript**
-
-### Databases
-
-- **PostgreSQL**
-- **SQLite**
-- **Database Modeling**
+### Databases & Search
+- **PostgreSQL** (with Vector Search)
+- **SQLite** | **Database Modeling**
 - **Relational Data Architecture**
+- **Vector Databases for AI**
 
 ### APIs & Integrations
-
-- **Paystack API**
-- **Flutterwave API**
-- **Amadeus API**
-- **Duffel API**
-- **REST APIs**
-- **Third-Party API Integration**
+- **Paystack API** | **Flutterwave API**
+- **Amadeus API** | **Duffel API**
+- **REST APIs** & **Third-Party Integrations**
 - **Payment Gateway Integration**
 - **Authentication Integrations**
-- **External Service Integration**
-
-### Tools & Development
-
-- **Git & GitHub**
-- **VS Code**
-- **Postman**
-- **Vercel**
-- **Linux**
 
 ### AI & Emerging Technologies
-
-- **AI Integration**
+- **AI Integration & LLM API Integration**
 - **Prompt Engineering**
-- **LLM API Integration**
 - **AI-Powered Application Workflows**
+- **Vector Search & Semantic Search**
 - **Solidity & Smart Contract Development**
+- **Web3 & Blockchain Solutions**
+
+### Tools & Deployment
+- **Git & GitHub** | **VS Code** | **Postman**
+- **Vercel** | **Docker** | **Linux/Unix**
+- **CI/CD Pipelines** | **Version Control**
 
 ---
 
-## 🚀 Featured Portfolio & Open Source Contributions
+## 🚀 Featured Portfolio & Open Source Projects
 
-| Project & Overview | Core Architecture & Toolkit | Repository / Live Demo |
-|---|---|---|
-| **🍽️ Chopora — Restaurant Management & Ordering Platform** <br><br> A full-stack restaurant platform supporting customer authentication, menu browsing, cart management, order processing, payment workflows, profiles, and order history. Designed around real-world restaurant operations and extensibility. | **Django + Bootstrap 5 + PostgreSQL/SQLite** <br><br> Authentication • Cart & Orders • Paystack Integration • Admin RBAC • Chart.js • Swiper • GSAP | [Repository](https://github.com/tobenkey98/Online-Restaurant-with-Django) |
-| **✈️ SkyWings — Flight Booking Platform** <br><br> A flight search and booking system integrating flight inventory and payment processing to provide an end-to-end booking workflow from flight discovery through confirmation. | **Django + Amadeus API + Paystack + PostgreSQL** <br><br> Flight Search • Offer Management • Booking Workflow • Payment Integration • API Integration • Booking Confirmation | [Repository](https://github.com/tobenkey98/Flight_Booking-with-amadeus-API) |
-| **💍 DestinyPair — Christian Singles Community Platform** <br><br> A purpose-driven relationship and community platform designed to connect Christian singles seeking meaningful relationships, with profile discovery, compatibility-based matching, subscriptions, messaging, and administrative management. | **React SPA + Django REST API + SQLite/PostgreSQL** <br><br> Profile Management • Matching Logic • Compatibility Scoring • Authentication • Subscription Architecture • Messaging • RBAC • Payment Integration | [Live Platform](https://destinypair.net) • [Repository](#) |
+| Project | Overview | Tech Stack | Repository |
+|---------|----------|-----------|------------|
+| **🤖 Enterprise-RBAC-AI-Execution-Engine** | An enterprise AI knowledge base featuring role-based access control, secure document ingestion, and PostgreSQL vector search for intelligent document retrieval. | JavaScript, PostgreSQL, Vector Search, AI | [View Repo](https://github.com/Tobenkey98/Enterprise-RBAC-AI-Execution-Engine) |
+| **💍 DestinyPair** | A purpose-driven relationship and community platform designed to connect Christian singles seeking meaningful relationships. Features user authentication, profiles, matching algorithms, and community features. | JavaScript, React, Database Design | [View Repo](https://github.com/Tobenkey98/Destiny-Pair) |
+| **✈️ SkyWings — Flight Booking Platform** | A flight search and booking system integrating Amadeus flight inventory and payment processing to provide an end-to-end booking workflow from flight search to payment completion. | Python, Django, Amadeus API, Payment Integration | [View Repo](https://github.com/Tobenkey98/Flight_Booking-with-amadeus-API) |
+| **🍽️ Chopora — Restaurant Management & Ordering** | A full-stack restaurant platform supporting customer authentication, menu browsing, cart management, order processing, payment integration, and admin dashboards. | Python, Django, JavaScript, Paystack API | [View Repo](https://github.com/Tobenkey98/Online-Restaurant-with-Django) |
+| **⛓️ Web3 Smart Contract - Crypto Lending** | A decentralized finance (DeFi) project where lenders can lock funds and borrowers can lock reputation. Features smart contracts, TypeScript integration, and blockchain security. | TypeScript, Solidity, Python, Django, Web3 | [View Repo](https://github.com/Tobenkey98/Web3-Smart-Contract-with-TypeScript-solidity-and-Python-django) |
+| **🏢 Pure Intentions Global Tech Services** | Digital solutions and software development portfolio for businesses and organizations. | HTML, CSS, JavaScript, Responsive Design | [View Repo](https://github.com/Tobenkey98/Pure-Intentions-Global-Tech-Services) |
 
 ---
 
@@ -91,18 +75,19 @@ I enjoy working across the full development lifecycle — from designing system 
 
 I focus on software systems that solve **real business and user problems**, including:
 
-- Full-stack web applications
-- Business management platforms
-- RESTful backend systems
-- Payment-enabled applications
-- API-driven platforms
-- Booking and reservation systems
-- Authentication and authorization systems
-- Role-based administrative dashboards
-- Data-driven applications
-- AI-integrated applications
-- Community and marketplace platforms
-- Smart contract integrations
+- **Full-stack web applications** with modern tech stacks
+- **Enterprise AI systems** with vector search and RBAC
+- **Business management platforms** (restaurants, bookings, communities)
+- **RESTful backend systems** and scalable APIs
+- **Payment-enabled applications** with secure transaction workflows
+- **API-driven platforms** with third-party integrations
+- **Booking and reservation systems** (flights, services, experiences)
+- **Authentication and authorization systems** (JWT, OAuth2, RBAC)
+- **Role-based administrative dashboards**
+- **Data-driven applications** with analytics
+- **AI-integrated applications** with LLM APIs and vector search
+- **Community and marketplace platforms**
+- **Smart contract integrations** and blockchain solutions
 
 ---
 
@@ -110,9 +95,19 @@ I focus on software systems that solve **real business and user problems**, incl
 
 I approach development with an emphasis on:
 
-**Architecture → Reliability → Security → Maintainability → User Experience → Scalability**
+```
+Architecture → Reliability → Security → Maintainability → User Experience → Scalability
+```
 
-Rather than treating a project as simply a collection of pages and features, I focus on how the different parts of a system work together — from database structure and backend business logic to APIs, authentication, payments, frontend state, and administrative workflows.
+Rather than treating a project as simply a collection of pages and features, I focus on how the different parts of a system work together — from database structure and backend business logic to frontend user experience and deployment infrastructure.
+
+**Key Principles:**
+- ✅ Write code that is readable, maintainable, and well-documented
+- ✅ Design systems for scalability from the ground up
+- ✅ Implement security best practices (authentication, authorization, data protection)
+- ✅ Create intuitive user experiences backed by solid architecture
+- ✅ Integrate third-party services seamlessly and securely
+- ✅ Automate workflows and reduce manual processes
 
 ---
 
@@ -120,50 +115,71 @@ Rather than treating a project as simply a collection of pages and features, I f
 
 Beyond building software, I teach programming and web development, helping learners understand programming concepts through practical, structured development.
 
-My teaching experience includes:
-
-- **Python**
-- **Django**
-- **HTML & CSS**
-- **JavaScript**
-- **React**
-- **Scratch Programming**
+**Teaching Experience:**
+- **Python** & **Django** for backend development
+- **JavaScript** & **React** for frontend development
+- **HTML & CSS** for responsive web design
+- **Scratch Programming** for beginners
 - **Web Development Fundamentals**
+- **Database Design & SQL**
 
 Teaching has strengthened my ability to break complex technical concepts into clear, understandable systems — an approach I also bring into software development and technical documentation.
 
 ---
 
-## 📈 Currently Building
+## 📈 Currently Building & Expanding
 
-I'm continuously expanding my engineering capabilities around:
+Continuously advancing expertise in:
 
-- Advanced **Django & REST API architecture**
-- **React & Next.js** applications
-- Scalable backend systems
-- AI-powered application workflows
-- API and payment integrations
-- Cloud deployment and production workflows
-- Blockchain and smart contract applications
-
----
-
-## 🤝 Let's Connect
-
-I'm open to collaborating on **software products, full-stack applications, backend systems, API integrations, and developer-focused projects**.
-
-### 🌐 Portfolio
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-tobenkey--98.web.app-065F46?style=for-the-badge)](https://tobenkey-98.web.app)
-
-### 💻 GitHub
-
-[![GitHub](https://img.shields.io/badge/GitHub-tobenkey98-181717?style=for-the-badge&logo=github)](https://github.com/tobenkey98)
-
-### 📧 Email
-
-[![Email](https://img.shields.io/badge/Email-holuwartobby96%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:holuwartobby96@gmail.com)
+- 🤖 **Advanced AI & LLM Integration** - Building intelligent applications with vector search and semantic understanding
+- 🎯 **Enterprise Systems** - RBAC, multi-tenant architectures, and scalable backends
+- ⚡ **Django & REST API Architecture** - Best practices for production-grade APIs
+- ⚛️ **React & Next.js** - Modern, performant frontend applications
+- 🔒 **Security-First Development** - Authentication, authorization, data protection
+- 📊 **Data-Driven Applications** - Analytics, reporting, business intelligence
+- ⛓️ **Blockchain & Smart Contracts** - Web3 solutions and DeFi applications
+- ☁️ **Cloud Deployment & DevOps** - Production workflows, CI/CD, containerization
 
 ---
 
-> **Build systems that solve real problems. Write code that lasts.**
+## 📊 GitHub Stats
+
+- **7 Public Repositories** covering full-stack development, AI, blockchain, and business applications
+- **Languages:** JavaScript, Python, TypeScript, Solidity, HTML, CSS, SQL
+- **Focus Areas:** Enterprise AI, Payment Systems, Booking Platforms, Web3 Solutions
+
+---
+
+## 🤝 Let's Connect & Collaborate
+
+I'm open to collaborating on:
+- ✅ Full-stack applications and web platforms
+- ✅ Enterprise AI and knowledge base systems
+- ✅ Backend systems and scalable APIs
+- ✅ Payment and transaction workflows
+- ✅ Blockchain and smart contract solutions
+- ✅ Developer-focused projects and tools
+- ✅ Mentoring and technical education
+
+### 🌐 Connect With Me
+
+| Platform | Link |
+|----------|------|
+| **Portfolio** | [tobenkey-98.web.app](https://tobenkey-98.web.app) |
+| **GitHub** | [@tobenkey98](https://github.com/tobenkey98) |
+| **Email** | [holuwartobby96@gmail.com](mailto:holuwartobby96@gmail.com) |
+
+---
+
+### 💬 Latest Updates
+- ✨ **NEW:** Enterprise-RBAC-AI-Execution-Engine - Advanced AI knowledge base with vector search and role-based access control
+- 🔄 Continuously building production-grade applications
+- 📚 Teaching web development and backend systems
+
+---
+
+> **Build systems that solve real problems. Write code that lasts. Create value that matters.**
+
+---
+
+*Last updated: September 10, 2026*
