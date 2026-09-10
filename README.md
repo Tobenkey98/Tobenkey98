@@ -62,13 +62,12 @@ I enjoy working across the full development lifecycle — from designing system 
 
 | Project | Overview | Tech Stack | Repository |
 |---------|----------|-----------|------------|
-| **🔄 Low-Latency-Live-Agent-WebSocket-Streaming-Engine** | A real-time AI agent platform built with Django Channels, featuring live WebSocket streaming, tool-calling loops, and a React human-in-the-loop UI for interactive AI workflows. | Django, Django Channels, React, WebSocket, Python, JavaScript | [View Repo](https://github.com/Tobenkey98/Low-Latency-Live-Agent-WebSocket-Streaming-Engine) |
-| **🤖 Enterprise-RBAC-AI-Execution-Engine** | An enterprise AI knowledge base featuring role-based access control, secure document ingestion, and PostgreSQL vector search for intelligent docume[...] | JavaScript, PostgreSQL, Vector Search, RBAC | [View Repo](https://github.com/Tobenkey98/Enterprise-RBAC-AI-Execution-Engine) |
-| **💍 DestinyPair** | A purpose-driven relationship and community platform designed to connect Christian singles seeking meaningful relationships. Features user authentication, profiles, matchi[...] | JavaScript, React | [View Repo](https://github.com/Tobenkey98/Destiny-Pair) |
-| **✈️ SkyWings — Flight Booking Platform** | A flight search and booking system integrating Amadeus flight inventory and payment processing to provide an end-to-end booking workflow from fl[...] | HTML, CSS, Amadeus API | [View Repo](https://github.com/Tobenkey98/Flight_Booking-with-amadeus-API) |
-| **🍽️ Chopora — Restaurant Management & Ordering** | A full-stack restaurant platform supporting customer authentication, menu browsing, cart management, order processing, payment integrat[...] | Django, HTML, Python | [View Repo](https://github.com/Tobenkey98/Online-Restaurant-with-Django) |
-| **⛓️ Web3 Smart Contract - Crypto Lending** | A decentralized finance (DeFi) project where lenders can lock funds and borrowers can lock reputation. Features smart contracts, TypeScript inte[...] | TypeScript, Solidity, Python, Django | [View Repo](https://github.com/Tobenkey98/Web3-Smart-Contract-with-TypeScript-solidity-and-Python-django) |
-| **🏢 Pure Intentions Global Tech Services** | Digital solutions and software development portfolio for businesses and organizations. | HTML, CSS, JavaScript, Responsive Design | [View Repo](https://github.com/Tobenkey98/Pure-Intentions-Global-Tech-Services) |
+| **🔄 Low-Latency-Live-Agent-WebSocket-Streaming-Engine** | A real-time AI agent platform built with Django Channels, featuring live WebSocket streaming, tool-calling loops, and a React human-i[...]
+| **🤖 Enterprise-RBAC-AI-Execution-Engine** | An enterprise AI knowledge base featuring role-based access control, secure document ingestion, and PostgreSQL vector search for intelligent docume[...]
+| **💍 DestinyPair** | A purpose-driven relationship and community platform designed to connect Christian singles seeking meaningful relationships. Features user authentication, profiles, matchi[...]
+| **✈️ SkyWings — Flight Booking Platform** | A flight search and booking system integrating Amadeus flight inventory and payment processing to provide an end-to-end booking workflow from fl[...]
+| **⛓️ Web3 Smart Contract - Crypto Lending** | A decentralized finance (DeFi) project where lenders can lock funds and borrowers can lock reputation. Features smart contracts, TypeScript inte[...]
+| **🏢 Pure Intentions Global Tech Services** | Digital solutions and software development portfolio for businesses and organizations. | HTML, CSS, JavaScript, Responsive Design | [View Repo](ht[...]
 
 ---
 
